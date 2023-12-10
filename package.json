@@ -1,0 +1,37 @@
+{
+  "name": "datadome-interstital-encryptor",
+  "version": "1.0.0",
+  "description": "Node.js module for encrypting signals as per the Datadome 5s Interstitial Challenge, requiring only a Datadome cookie and website hash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glizzykingdreko/datadome-interstital-encryptor"
+  },
+  "keywords": [
+    "datadome",
+    "interstital",
+    "encryption",
+    "security",
+    "nodejs"
+  ],
+  "author": "glizzykingdreko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/glizzykingdreko/datadome-interstital-encryptor/issues"
+  },
+  "homepage": "https://github.com/glizzykingdreko/datadome-interstital-encryptor",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}
